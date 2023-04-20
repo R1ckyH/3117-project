@@ -1,0 +1,9 @@
+.idea
+backup
+
+*test
+
+*.log
+*.pyc
+*.7z
+*.db
